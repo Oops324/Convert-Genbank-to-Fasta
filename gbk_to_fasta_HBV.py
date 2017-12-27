@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Author: Fei Jing
+Author: Anna Fei
 Date: 21/March/2017
 Usage: python gbk_to_fasta_HBV.py input.gk
 Function: convert genbank file to fasta file. with header ">D1|Jamaica|Jamaica|DENV1-17388|2012|KU509249|10582", output_filter.fa
