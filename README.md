@@ -1,2 +1,4 @@
 # Convert-Genbank-to-Fasta
-Convert genbank file to fasta file, and filter country, year, host, type
+This Python script is used to convert genbank file to fasta file, 
+it could collects & filters sequences features, like country, collection date, organism, serotype,host, Accession ID, product, strain.
+current example is for virus pathogens.
